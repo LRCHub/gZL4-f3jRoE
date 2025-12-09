@@ -1,0 +1,57 @@
+# 宝鐘マリン – Ahoy!! 我ら宝鐘海賊団☆
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:45.19] Sailing relaxed, endless blue
+[00:46.73] Nowhere to go, nothing to do
+[00:48.18] Running low on pirate brew
+[00:50.13] Frightening shortage of wenches to screw
+[01:10.13] 
+[00:52.05] A cryptic shadow on the horizon
+[00:53.75] Set camp and explore, lest they should wizen
+[00:55.58] The pirates unearth a mysterious grave
+[00:57.21] Could this be the magical treasure they crave?
+[01:20.21] 
+[01:13.50] "And as the pirates sailed onwards, towards certain doom, all they could think about was how wonderful it would be to pillage an uncharted island, for they had found an ancient map, buried deep within the sands of the grave. the map read 'Goblin Island'"
+[03:20.50] 
+[01:27.21] SLICE SLICE DICE DICE
+[01:30.88] Cutting the pirates into bite-sized portions of flesh!
+[01:57.88] 
+[01:36.39] LA LA LA LALA
+[01:38.06] And then we'll feast on their brains for our meal!
+[02:03.06] 
+[01:42.22] CHOMP CHOMP CHOMP CHOMP
+[01:45.20] And then we'll make funny hats from their skin!
+[01:50.33] Ripping and tearing, we'll use their organs as toys!
+[02:16.33] 
+[02:08.61] The pirates drop anchor close to the shore
+[02:10.38] Eager to find out what lies in store
+[02:11.77] Camp is set up near the menacing mountains
+[02:13.54] At midnight the necks turn to bloody fountains
+[02:36.54] 
+[02:15.51] The goblins come out from their goblin caves
+[02:17.26] Ready to make the intruders their slaves
+[02:19.10] Psychotic warcry, green skinned braves
+[02:20.71] The skin is stripped from pirate knaves
+[02:40.21] 
+[02:32.10] Out of the dark, the goblins march
+[02:33.22] One by one, through the goblin arch
+[02:35.09] Ready to kill the sleeping foes
+[02:36.74] To pluck off every one of their toes
+[02:54.74] 
+[02:38.67] The slaughter begins, the mayhem unthinkable
+[02:40.70] Pirate blood is especially drinkable
+[02:42.33] Lets make jewelery out of their bones
+[02:43.86] And break their jaws with tiny stones
+[03:02.36] 
+[03:32.50] Looting and pillaging cut short by death
+[03:44.43] The cold embrace of a goblins breath
+[03:46.05] Broken in half and stuffed into a chest
+[03:47.94] By furious goblins with no need to rest
+[04:07.44] 
+[03:49.81] Ripping and tearing, shredding the bastards
+[03:51.59] Pirates are fast, but goblins are faster
+[03:53.20] Bandits now slaves to ferocious green masters
+[03:55.05] What once was a voyage becomes a disaster
+```

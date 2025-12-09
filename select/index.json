@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Ahoy!! 我ら宝鐘海賊団☆",
+  "base_artist": "宝鐘マリン",
+  "createdAt": "2025-12-09T10:05:17.120874Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ahoy!! 我ら宝鐘海賊団☆",
+      "artist": "宝鐘マリン",
+      "has_synced": true,
+      "path": "select/01_Ahoy!!_我ら宝鐘海賊団☆_宝鐘マリン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "AHOY!",
+      "artist": "Rumahoy",
+      "has_synced": true,
+      "path": "select/02_AHOY!_Rumahoy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chips Ahoy",
+      "artist": "The Hold Steady",
+      "has_synced": true,
+      "path": "select/03_Chips_Ahoy_The_Hold_Steady.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ship Ahoy",
+      "artist": "The O'Jays",
+      "has_synced": true,
+      "path": "select/04_Ship_Ahoy_The_O'Jays.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "17 Miljoen Mensen (Live @538 in Ahoy)",
+      "artist": "Davina Michelle feat. Snelle",
+      "has_synced": true,
+      "path": "select/05_17_Miljoen_Mensen_(Live_@538_in_Ahoy)_Davina_Michelle_feat._Snelle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "17 Miljoen Mensen - Live @538 in Ahoy",
+      "artist": "Davina Michelle, Snelle",
+      "has_synced": true,
+      "path": "select/06_17_Miljoen_Mensen_-_Live_@538_in_Ahoy_Davina_Michelle,_Snelle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Song - Live From The Ahoy, Rotterdam / 1985",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/07_Love_Song_-_Live_From_The_Ahoy,_Rotterdam___1985_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Street Hassle - Live From The Ahoy, Rotterdam / 1985",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/08_Street_Hassle_-_Live_From_The_Ahoy,_Rotterdam___1985_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't You (Forget About Me) (live from the Ahoy, Rotterdam / 1985)",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/09_Don't_You_(Forget_About_Me)_(live_from_the_Ahoy,_Rotterdam___1985)_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Song (live from the Ahoy, Rotterdam / 1985)",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/10_Love_Song_(live_from_the_Ahoy,_Rotterdam___1985)_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Street Hassle (live from the Ahoy, Rotterdam / 1985)",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/11_Street_Hassle_(live_from_the_Ahoy,_Rotterdam___1985)_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chugs Ahoy",
+      "artist": "As Artifacts",
+      "has_synced": true,
+      "path": "select/12_Chugs_Ahoy_As_Artifacts.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Goblins Ahoy!",
+      "artist": "Nekrogoblikon",
+      "has_synced": true,
+      "path": "select/13_Goblins_Ahoy!_Nekrogoblikon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ahoy!! 我ら宝鐘海賊団☆",
+      "artist": "宝鐘マリン",
+      "has_synced": false,
+      "path": "select/pl_01_Ahoy!!_我ら宝鐘海賊団☆_宝鐘マリン.txt"
+    }
+  ]
+}
